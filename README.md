@@ -1,0 +1,2 @@
+# FreeCode_JavaScript_Algorithm_and_Data_Structures
+ In this JavaScript Algorithm and Data Structures Certification, I'll do my tests in the JavaScript fundamentals like variables, arrays, objects, loops, functions, the DOM and more.  I'll also do something about Object Oriented Programming (OOP), Functional Programming, algorithmic thinking, how to work with local storage, and how to fetch data using an API. This material is based on the freecodecamp JS course.
